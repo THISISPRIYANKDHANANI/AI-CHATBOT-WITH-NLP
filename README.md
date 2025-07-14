@@ -94,3 +94,5 @@ MIT License
 - [Google Generative AI (Gemini)](https://ai.google.dev/)
 
 # output
+![img](https://github.com/user-attachments/assets/684789f7-343d-4f13-924b-44b04b5ba849)
+![img](https://github.com/user-attachments/assets/36b66745-41d0-4b22-8f9d-60368f496e2e)
